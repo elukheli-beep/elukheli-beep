@@ -16,9 +16,9 @@
 
 ### About me
 
-I'm a telecommunications and ICT professional based in Johannesburg, South Africa, with **approximately nine years of experience** across technical operations, field engineering, fibre network planning and regional coordination.
+I'm a telecommunications and ICT professional based in Johannesburg, South Africa, with 10 years of experience across technical operations, field engineering, fibre network planning and regional coordination.
 
-I work on **FTTx ODN network planning and technical leadership with Huawei Technologies South Africa**, supporting planning quality, GIS and network records, engineering reviews and delivery coordination. My approach brings together network engineering, **business and data analysis**, and digital tools that help teams understand complex information and make better decisions.
+I work on **FTTx ODN network planning and technical leadership with Huawei Technologies South Africa**, supporting planning quality, GIS and network records, engineering reviews and delivery coordination. My approach brings together network engineering, business and data analysis, and digital tools that help teams understand complex information and make better decisions.
 
 ### What I work on
 
@@ -48,7 +48,6 @@ I work on **FTTx ODN network planning and technical leadership with Huawei Techn
 
 ### Learning & development
 
-- Studying towards a **BCom in Information Technology Management** at MANCOSA.
 - Developing my skills in **data analytics, business analysis, solutions consulting and practical digital transformation**.
 - Interested in opportunities that combine **telecommunications, operational analysis and technology-led problem solving**.
 
