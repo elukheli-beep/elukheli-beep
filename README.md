@@ -6,7 +6,7 @@
   <img src="assets/ernest-header.svg" width="100%" alt="Ernest Lukheli | FTTx network planning, technical leadership and data analysis" />
 </picture>
 
-# Hi, I'm Ernest Lukheli 
+# Hi, I'm Ernest
 
 **FTTx ODN Planner & Regional Technical Team Lead | Data & Business Analyst**
 
