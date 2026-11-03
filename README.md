@@ -91,7 +91,7 @@ I work on FTTx ODN network planning and technical leadership in local RSA subsid
 
 📍 Johannesburg, South Africa  
 📩 [e.lukheli@gmail.com](mailto:e.lukheli@gmail.com)  
-🌐 [Personal portfolio](https://elukheli-beep.github.io/) *(website being set up)*
+🌐 [Personal portfolio](https://elukheli-beep.github.io/)
 
 <sub>Personal profile. Views are my own; project descriptions do not disclose restricted employer or customer information.</sub>
 
