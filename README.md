@@ -2,7 +2,7 @@
 
 <img src="assets/ernest-header.svg" width="100%" alt="Ernest Lukheli | FTTx network planning, technical leadership and data analysis" />
 
-# Hi, I'm Ernest Lukheli 👋
+# Hi, I'm Ernest Lukheli 
 
 **FTTx ODN Planner & Regional Technical Team Lead | Data & Business Analyst**
 
@@ -48,8 +48,8 @@ I work on **FTTx ODN network planning and technical leadership with Huawei Techn
 
 ### Learning & development
 
-- Developing my skills in **data analytics, business analysis, solutions consulting and practical digital transformation**.
-- Interested in opportunities that combine **telecommunications, operational analysis and technology-led problem solving**.
+- Developing my skills in data analytics, business analysis, solutions consulting and practical digital transformation.
+- Interested in opportunities that combine telecommunications, operational analysis and technology-led problem solving.
 
 ### Connect
 
