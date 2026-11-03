@@ -1,9 +1,9 @@
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving%26height=220%26color=0:00E5FF,50:13284C,100:7C4DFF%26text=Ernest%20Lukheli%26fontColor=FFFFFF%26fontSize=48%26fontAlignY=38%26desc=FTTx%20ODN%20Planner%20%26%20Regional%20Technical%20Team%20Lead%20%7C%20Data%20%26%20Business%20Analyst%26descAlignY=61%26descSize=13%26animation=fadeIn" />
-  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving%26height=220%26color=0:007F98,50:142238,100:6741C7%26text=Ernest%20Lukheli%26fontColor=FFFFFF%26fontSize=48%26fontAlignY=38%26desc=FTTx%20ODN%20Planner%20%26%20Regional%20Technical%20Team%20Lead%20%7C%20Data%20%26%20Business%20Analyst%26descAlignY=61%26descSize=13%26animation=fadeIn" />
-  <img alt="Ernest Lukheli | FTTx ODN Planner & Regional Technical Team Lead | Data & Business Analyst" width="100%" src="https://capsule-render.vercel.app/api?type=waving%26height=220%26color=0:00E5FF,50:13284C,100:7C4DFF%26text=Ernest%20Lukheli%26fontColor=FFFFFF%26fontSize=48%26fontAlignY=38%26desc=FTTx%20ODN%20Planner%20%26%20Regional%20Technical%20Team%20Lead%20%7C%20Data%20%26%20Business%20Analyst%26descAlignY=61%26descSize=13%26animation=fadeIn" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&amp;height=220&amp;color=0:00E5FF,50:13284C,100:7C4DFF%26text=Ernest%20Lukheli&amp;fontColor=FFFFFF&amp;fontSize=48&amp;fontAlignY=38&amp;desc=FTTx%20ODN%20Planner%20%26%20Regional%20Technical%20Team%20Lead%20%7C%20Data%20%26%20Business%20Analyst&amp;descAlignY=61&amp;descSize=13&amp;animation=fadeIn" />
+  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&amp;height=220&amp;color=0:007F98,50:142238,100:6741C7%26text=Ernest%20Lukheli&amp;fontColor=FFFFFF&amp;fontSize=48&amp;fontAlignY=38&amp;desc=FTTx%20ODN%20Planner%20%26%20Regional%20Technical%20Team%20Lead%20%7C%20Data%20%26%20Business%20Analyst&amp;descAlignY=61&amp;descSize=13&amp;animation=fadeIn" />
+  <img alt="Ernest Lukheli | FTTx ODN Planner & Regional Technical Team Lead | Data & Business Analyst" width="100%" src="https://capsule-render.vercel.app/api?type=waving&amp;height=220&amp;color=0:00E5FF,50:13284C,100:7C4DFF%26text=Ernest%20Lukheli&amp;fontColor=FFFFFF&amp;fontSize=48&amp;fontAlignY=38&amp;desc=FTTx%20ODN%20Planner%20%26%20Regional%20Technical%20Team%20Lead%20%7C%20Data%20%26%20Business%20Analyst&amp;descAlignY=61&amp;descSize=13&amp;animation=fadeIn" />
 </picture>
 
 # Hi, I'm Ernest Lukheli 
@@ -58,7 +58,7 @@ I work on*FTTx ODN network planning and technical leadership in local RSA subsid
 
 **Analysis & planning:** Business analysis · data validation · reconciliation · Excel · GIS / QGIS · stakeholder coordination · reporting
 
-<p><img src="https://skillicons.dev/icons?i=py,js,html,css,nodejs,electron%26theme=dark" alt="" height="44" /></p>
+<p><img src="https://skillicons.dev/icons?i=py,js,html,css,nodejs,electron&amp;theme=dark" alt="" height="44" /></p>
 
 **Digital tools:** Python · JavaScript · HTML / CSS · Node.js · Electron · workflow automation
 
@@ -80,7 +80,7 @@ I work on*FTTx ODN network planning and technical leadership in local RSA subsid
 <sub>Personal profile. Views are my own; project descriptions do not disclose restricted employer or customer information.</sub>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving%26height=95%26section=footer%26color=0:00E5FF,50:13284C,100:7C4DFF" />
-  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving%26height=95%26section=footer%26color=0:007F98,50:142238,100:6741C7" />
-  <img src="https://capsule-render.vercel.app/api?type=waving%26height=95%26section=footer%26color=0:00E5FF,50:13284C,100:7C4DFF" alt="" width="100%" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&amp;height=95&amp;section=footer&amp;color=0:00E5FF,50:13284C,100:7C4DFF" />
+  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&amp;height=95&amp;section=footer&amp;color=0:007F98,50:142238,100:6741C7" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&amp;height=95&amp;section=footer&amp;color=0:00E5FF,50:13284C,100:7C4DFF" alt="" width="100%" />
 </picture>
