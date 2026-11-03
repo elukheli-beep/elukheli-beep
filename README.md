@@ -34,7 +34,6 @@ I work on*FTTx ODN network planning and technical leadership in local RSA subsid
 | **FTTx Nexus** | A multi-user planning and reporting dashboard bringing project status, records reconciliation and follow-up actions into one workspace. | Excel, Electron, Node.js, JavaScript, data modelling |
 | **Splice Browser** | A browser-based Excel reconciliation tool to review fibre-splice records and highlight inconsistencies for investigation. | HTML, CSS, JavaScript, Excel |
 | **FTTx / ODN network planning** | Network design reviews, route analysis, GIS and records alignment, cost and delivery considerations, and technical handovers. | QGIS, Excel, GIS, GPON / XGS-PON |
-| **FTTR / FTTO solution design** | High-level optical distribution concepts, equipment placement, coverage planning and link-budget considerations. | FTTR, FTTO, Wi-Fi, fibre distribution |
 
 > **Publication note:** These descriptions are high-level. Employer-owned code, customer infrastructure, live network records and confidential documents are not published here.
 
