@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 312" role="img" aria-labelledby="title desc">
+<title id="title">Ernest Lukheli</title>
+<desc id="desc">Regional FTTx ODN Planning and Technical Team Lead, Data and Business Analyst.</desc>
+<defs>
+ <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#142238"/><stop offset="1" stop-color="#0b1422"/></linearGradient>
+ <linearGradient id="line" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#5d718d" stop-opacity="0"/><stop offset=".52" stop-color="#a3545b" stop-opacity=".62"/><stop offset="1" stop-color="#d26b68" stop-opacity=".9"/></linearGradient>
+ <pattern id="grid" width="44" height="44" patternUnits="userSpaceOnUse"><path d="M44 0H0V44" fill="none" stroke="#f8f8f8" stroke-opacity=".045" stroke-width="1"/></pattern>
+</defs>
+<rect width="1200" height="312" fill="url(#bg)" rx="20"/>
+<rect width="1200" height="312" fill="url(#grid)" rx="20"/>
+<path d="M720 244 C815 244 770 66 890 66 S995 222 1092 222 S1170 110 1220 110" fill="none" stroke="url(#line)" stroke-width="2.5"/>
+<path d="M720 275 C845 275 814 124 930 124 S1030 260 1140 260" fill="none" stroke="#9aa9ba" stroke-opacity=".20" stroke-width="2"/>
+<path d="M770 195 C852 195 860 184 917 184 S1032 94 1140 94" fill="none" stroke="#d57874" stroke-opacity=".29" stroke-width="2"/>
+<g fill="#d57874"><circle cx="890" cy="66" r="6"/><circle cx="1092" cy="222" r="6"/><circle cx="917" cy="184" r="5"/></g>
+<g fill="#fff" fill-opacity=".38"><circle cx="930" cy="124" r="4"/><circle cx="1140" cy="260" r="4"/><circle cx="1140" cy="94" r="4"/></g>
+<rect x="58" y="56" width="5" height="54" rx="2.5" fill="#d86b65"/>
+<text x="83" y="95" fill="#f6f4f2" font-family="Arial, Helvetica, sans-serif" font-size="50" font-weight="700" letter-spacing=".2">Ernest Lukheli</text>
+<text x="62" y="158" fill="#e6e9ef" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="500">FTTx ODN Planning &amp; Regional Technical Team Lead</text>
+<text x="62" y="211" fill="#adbdce" font-family="Arial, Helvetica, sans-serif" font-size="20">Data &amp; Business Analyst  •  Fibre Networks  •  Digital Solutions</text>
+<text x="62" y="275" fill="#ddaaa6" font-family="Arial, Helvetica, sans-serif" font-size="17" letter-spacing="1.8">JOHANNESBURG · SOUTH AFRICA</text>
+</svg>
