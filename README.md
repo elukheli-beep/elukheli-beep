@@ -1,9 +1,9 @@
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&amp;height=220&amp;color=0:00E5FF,50:13284C,100:7C4DFF%26text=Ernest%20Lukheli&amp;fontColor=FFFFFF&amp;fontSize=48&amp;fontAlignY=38&amp;desc=FTTx%20ODN%20Planner%20%26%20Regional%20Technical%20Team%20Lead%20%7C%20Data%20%26%20Business%20Analyst&amp;descAlignY=61&amp;descSize=13&amp;animation=fadeIn" />
-  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&amp;height=220&amp;color=0:007F98,50:142238,100:6741C7%26text=Ernest%20Lukheli&amp;fontColor=FFFFFF&amp;fontSize=48&amp;fontAlignY=38&amp;desc=FTTx%20ODN%20Planner%20%26%20Regional%20Technical%20Team%20Lead%20%7C%20Data%20%26%20Business%20Analyst&amp;descAlignY=61&amp;descSize=13&amp;animation=fadeIn" />
-  <img alt="Ernest Lukheli | FTTx ODN Planner & Regional Technical Team Lead | Data & Business Analyst" width="100%" src="https://capsule-render.vercel.app/api?type=waving&amp;height=220&amp;color=0:00E5FF,50:13284C,100:7C4DFF%26text=Ernest%20Lukheli&amp;fontColor=FFFFFF&amp;fontSize=48&amp;fontAlignY=38&amp;desc=FTTx%20ODN%20Planner%20%26%20Regional%20Technical%20Team%20Lead%20%7C%20Data%20%26%20Business%20Analyst&amp;descAlignY=61&amp;descSize=13&amp;animation=fadeIn" />
+  <source media="(prefers-color-scheme: dark)" srcset="assets/ernest-header.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="assets/ernest-header.svg" />
+  <img src="assets/ernest-header.svg" width="100%" alt="Ernest Lukheli | FTTx network planning, technical leadership and data analysis" />
 </picture>
 
 # Hi, I'm Ernest Lukheli 
@@ -12,45 +12,53 @@
 
 *Connecting fibre network engineering, accurate data and practical digital solutions.*
 
-[Portfolio](https://elukheli-beep.github.io/) · [GitHub Projects](https://github.com/elukheli-beep?tab=repositories) · [Email](mailto:e.lukheli@gmail.com)
+<p><img src="https://readme-typing-svg.demolab.com?font=Inter&amp;weight=500&amp;size=17&amp;duration=3600&amp;pause=900&amp;color=00E5FF&amp;center=true&amp;vCenter=true&amp;width=880&amp;lines=FTTx+ODN+Planner+%26+Regional+Technical+Team+Lead;Data+%26+Business+Analyst;Connecting+fibre+network+engineering%2C+accurate+data+and+practical+digital+solutions." alt="" /></p>
+
+<p>
+<a href="https://elukheli-beep.github.io/"><img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-00E5FF?style=flat-square&amp;labelColor=11182f&amp;color=00E5FF" /></a>
+<a href="https://github.com/elukheli-beep?tab=repositories"><img alt="GitHub Projects" src="https://img.shields.io/badge/GitHub%20Projects-7C4DFF?style=flat-square&amp;labelColor=11182f&amp;color=7C4DFF" /></a>
+<a href="mailto:e.lukheli@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-00E5FF?style=flat-square&amp;labelColor=11182f&amp;color=00E5FF" /></a>
+</p>
 
 </div>
 
-<p align="center"><img src="assets/fibre-divider.svg" width="100%" alt="" /></p>
+<p align="center"><img alt="" width="100%" src="assets/fibre-divider.svg" /></p>
 
 ### About me
 
 I'm a telecommunications and ICT professional based in Johannesburg, South Africa, with 10 years of experience across technical operations, field engineering, fibre network planning and regional coordination.
 
-I work on*FTTx ODN network planning and technical leadership in local RSA subsidiary for one of world’s leading ICT providers, supporting planning quality, GIS and network records, engineering reviews and delivery coordination. My approach brings together network engineering, business and data analysis, and digital tools that help teams understand complex information and make better decisions.
+I work on FTTx ODN network planning and technical leadership in local RSA subsidiary for one of world's leading ICT providers, supporting planning quality, GIS and network records, engineering reviews and delivery coordination. My approach brings together network engineering, business and data analysis, and digital tools that help teams understand complex information and make better decisions.
 
-<p align="center"><img src="assets/fibre-divider.svg" width="100%" alt="" /></p>
+<p align="center"><img alt="" width="100%" src="assets/fibre-divider.svg" /></p>
 
 ### What I work on
 
-- **FTTx and ODN planning:** HLD/LLD reviews, OSP design, fibre routes, optical budgets, GPON / XGS-PON and technical handovers.
-- **Data & business analysis:** requirements, data quality, Excel-based reconciliation, reporting, process improvement and decision support.
-- **Planning systems:** practical tools to make status tracking, validation and reporting more consistent.
-- **Technical leadership:** coordinating planning teams and working across design, maintenance, build and delivery stakeholders.
+<table>
+<tr>
+<td width="50%" valign="top"><strong>FTTx and ODN planning:</strong> HLD/LLD reviews, OSP design, fibre routes, optical budgets, GPON / XGS-PON and technical handovers.</td>
+<td width="50%" valign="top"><strong>Data &amp; business analysis:</strong> requirements, data quality, Excel-based reconciliation, reporting, process improvement and decision support.</td>
+</tr>
+<tr>
+<td valign="top"><strong>Planning systems:</strong> practical tools to make status tracking, validation and reporting more consistent.</td>
+<td valign="top"><strong>Technical leadership:</strong> coordinating planning teams and working across design, maintenance, build and delivery stakeholders.</td>
+</tr>
+</table>
 
-<p align="center"><img src="assets/fibre-divider.svg" width="100%" alt="" /></p>
+<p align="center"><img alt="" width="100%" src="assets/fibre-divider.svg" /></p>
 
 ### Selected projects & experience
 
 <table>
-  <thead>
-    <tr><th align="left" width="31%">Project / area</th><th align="left">Overview<br/>Tools and methods</th></tr>
-  </thead>
-  <tbody>
-    <tr><td><strong>FTTx Nexus</strong></td><td>A multi-user planning and reporting dashboard bringing project status, records reconciliation and follow-up actions into one workspace.<br/><br/><code>Excel, Electron, Node.js, JavaScript, data modelling</code></td></tr>
-    <tr><td><strong>Splice Browser</strong></td><td>A browser-based Excel reconciliation tool to review fibre-splice records and highlight inconsistencies for investigation.<br/><br/><code>HTML, CSS, JavaScript, Excel</code></td></tr>
-    <tr><td><strong>FTTx / ODN network planning</strong></td><td>Network design reviews, route analysis, GIS and records alignment, cost and delivery considerations, and technical handovers.<br/><br/><code>QGIS, Excel, GIS, GPON / XGS-PON</code></td></tr>
-  </tbody>
+<tr><th align="left" width="33%">Project / area</th><th align="left">Overview<br/>Tools and methods</th></tr>
+<tr><td valign="top"><strong>FTTx Nexus</strong></td><td>A multi-user planning and reporting dashboard bringing project status, records reconciliation and follow-up actions into one workspace.<p><code>Excel, Electron, Node.js, JavaScript, data modelling</code></p></td></tr>
+<tr><td valign="top"><strong>Splice Browser</strong></td><td>A browser-based Excel reconciliation tool to review fibre-splice records and highlight inconsistencies for investigation.<p><code>HTML, CSS, JavaScript, Excel</code></p></td></tr>
+<tr><td valign="top"><strong>FTTx / ODN network planning</strong></td><td>Network design reviews, route analysis, GIS and records alignment, cost and delivery considerations, and technical handovers.<p><code>QGIS, Excel, GIS, GPON / XGS-PON</code></p></td></tr>
 </table>
 
 > **Publication note:** These descriptions are high-level. Employer-owned code, customer infrastructure, live network records and confidential documents are not published here.
 
-<p align="center"><img src="assets/fibre-divider.svg" width="100%" alt="" /></p>
+<p align="center"><img alt="" width="100%" src="assets/fibre-divider.svg" /></p>
 
 ### Skills & tools
 
@@ -58,18 +66,26 @@ I work on*FTTx ODN network planning and technical leadership in local RSA subsid
 
 **Analysis & planning:** Business analysis · data validation · reconciliation · Excel · GIS / QGIS · stakeholder coordination · reporting
 
-<p><img src="https://skillicons.dev/icons?i=py,js,html,css,nodejs,electron&amp;theme=dark" alt="" height="44" /></p>
-
 **Digital tools:** Python · JavaScript · HTML / CSS · Node.js · Electron · workflow automation
 
-<p align="center"><img src="assets/fibre-divider.svg" width="100%" alt="" /></p>
+<p align="center"><img src="https://skillicons.dev/icons?i=python,js,html,css,nodejs,electron&amp;theme=dark" alt="Python, JavaScript, HTML, CSS, Node.js, Electron" height="46" /></p>
+<p align="center">
+<img src="https://img.shields.io/badge/Excel-00E5FF?style=flat-square&amp;labelColor=10172c" alt="Excel" />
+<img src="https://img.shields.io/badge/GPON-7C4DFF?style=flat-square&amp;labelColor=10172c" alt="GPON" />
+<img src="https://img.shields.io/badge/XGS--PON-00E5FF?style=flat-square&amp;labelColor=10172c" alt="XGS-PON" />
+<img src="https://img.shields.io/badge/FTTx-7C4DFF?style=flat-square&amp;labelColor=10172c" alt="FTTx" />
+<img src="https://img.shields.io/badge/FTTR-00E5FF?style=flat-square&amp;labelColor=10172c" alt="FTTR" />
+<img src="https://img.shields.io/badge/QGIS-7C4DFF?style=flat-square&amp;labelColor=10172c" alt="QGIS" />
+</p>
+
+<p align="center"><img alt="" width="100%" src="assets/fibre-divider.svg" /></p>
 
 ### Learning & development
 
 - Developing my skills in data analytics, business analysis, solutions consulting and practical digital transformation.
 - Interested in opportunities that combine telecommunications, operational analysis and technology-led problem solving.
 
-<p align="center"><img src="assets/fibre-divider.svg" width="100%" alt="" /></p>
+<p align="center"><img alt="" width="100%" src="assets/fibre-divider.svg" /></p>
 
 ### Connect
 
@@ -82,5 +98,5 @@ I work on*FTTx ODN network planning and technical leadership in local RSA subsid
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&amp;height=95&amp;section=footer&amp;color=0:00E5FF,50:13284C,100:7C4DFF" />
   <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&amp;height=95&amp;section=footer&amp;color=0:007F98,50:142238,100:6741C7" />
-  <img src="https://capsule-render.vercel.app/api?type=waving&amp;height=95&amp;section=footer&amp;color=0:00E5FF,50:13284C,100:7C4DFF" alt="" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&amp;height=95&amp;section=footer&amp;color=0:00E5FF,50:13284C,100:7C4DFF" width="100%" alt="" />
 </picture>
